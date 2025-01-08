@@ -1,7 +1,7 @@
 # TrueTwin Device Code
 
 ## Overview
-This repository is part of the TrueTwin project that consists of several repositories.
+This repository is part of the [TrueTwin Project](https://github.com/stars/davidjmcclelland/lists/truetwin-project) that consists of several repositories.
 
 The TrueTwin project is a proof-of-concept and spike to explore connecting a physical device to a virtual device (twin). The connection must allow either instance to publish changes so that it's twin syncs up in near-real-time.
 
