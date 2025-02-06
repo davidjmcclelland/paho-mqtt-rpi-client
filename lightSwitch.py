@@ -1,6 +1,6 @@
 from time import sleep
 import RPi.GPIO as GPIO
-import lightStatus2 as lStatus
+import lightStatus as lStatus
 
 delay = 0.4
 inPin = 40
